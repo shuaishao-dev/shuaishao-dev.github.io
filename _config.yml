@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Shuai Shao"
 title_separator          : "-"
 name                     : &name "Shuai Shao"
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=siaWfwoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6736-8393"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
