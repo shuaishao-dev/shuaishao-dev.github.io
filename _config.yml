@@ -13,9 +13,9 @@ title                    : "Shuai Shao"
 title_separator          : "-"
 name                     : &name "Shuai Shao"
 description              : &description "PhD student in Computer Science at the University of Connecticut (UConn). Research interests include concurrent bug localization, static analysis, and LLM-based software engineering."
-url                      : https://shuaishao-dev.github.io
+url                      : https://sh-shao.github.io
 baseurl                  : ""
-repository               : "shuaishao-dev/shuaishao-dev.github.io"
+repository               : "sh-shao/sh-shao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -49,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "shuaishao-dev"
+  github           : "sh-shao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
